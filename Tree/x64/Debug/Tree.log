@@ -1,0 +1,67 @@
+﻿  main.cpp
+C:\Users\Anr1\Desktop\Rob&Fox\main.cpp(447,43): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Anr1\Desktop\Rob&Fox\main.cpp(447,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Anr1\Desktop\Rob&Fox\main.cpp(453,83): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\Anr1\Desktop\Rob&Fox\main.cpp(453,83): warning C4244:         with
+C:\Users\Anr1\Desktop\Rob&Fox\main.cpp(453,83): warning C4244:         [
+C:\Users\Anr1\Desktop\Rob&Fox\main.cpp(453,83): warning C4244:             T=float
+C:\Users\Anr1\Desktop\Rob&Fox\main.cpp(453,83): warning C4244:         ]
+C:\Users\Anr1\Desktop\Rob&Fox\main.cpp(453,62): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\Anr1\Desktop\Rob&Fox\main.cpp(453,62): warning C4244:         with
+C:\Users\Anr1\Desktop\Rob&Fox\main.cpp(453,62): warning C4244:         [
+C:\Users\Anr1\Desktop\Rob&Fox\main.cpp(453,62): warning C4244:             T=float
+C:\Users\Anr1\Desktop\Rob&Fox\main.cpp(453,62): warning C4244:         ]
+C:\Users\Anr1\Desktop\Rob&Fox\main.cpp(457,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Anr1\Desktop\Rob&Fox\main.cpp(457,34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Anr1\Desktop\Rob&Fox\main.cpp(460,50): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\Anr1\Desktop\Rob&Fox\main.cpp(460,50): warning C4244:         with
+C:\Users\Anr1\Desktop\Rob&Fox\main.cpp(460,50): warning C4244:         [
+C:\Users\Anr1\Desktop\Rob&Fox\main.cpp(460,50): warning C4244:             T=float
+C:\Users\Anr1\Desktop\Rob&Fox\main.cpp(460,50): warning C4244:         ]
+C:\Users\Anr1\Desktop\Rob&Fox\main.cpp(460,37): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\Anr1\Desktop\Rob&Fox\main.cpp(460,37): warning C4244:         with
+C:\Users\Anr1\Desktop\Rob&Fox\main.cpp(460,37): warning C4244:         [
+C:\Users\Anr1\Desktop\Rob&Fox\main.cpp(460,37): warning C4244:             T=float
+C:\Users\Anr1\Desktop\Rob&Fox\main.cpp(460,37): warning C4244:         ]
+C:\Users\Anr1\Desktop\Rob&Fox\main.cpp(561,84): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Anr1\Desktop\Rob&Fox\main.cpp(561,53): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Anr1\Desktop\Rob&Fox\main.cpp(565,90): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Anr1\Desktop\Rob&Fox\main.cpp(565,59): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Anr1\Desktop\Rob&Fox\main.cpp(571,90): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Anr1\Desktop\Rob&Fox\main.cpp(571,59): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Anr1\Desktop\Rob&Fox\main.cpp(577,91): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Anr1\Desktop\Rob&Fox\main.cpp(577,60): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Anr1\Desktop\Rob&Fox\main.cpp(658,83): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\Anr1\Desktop\Rob&Fox\main.cpp(658,83): warning C4244:         with
+C:\Users\Anr1\Desktop\Rob&Fox\main.cpp(658,83): warning C4244:         [
+C:\Users\Anr1\Desktop\Rob&Fox\main.cpp(658,83): warning C4244:             T=float
+C:\Users\Anr1\Desktop\Rob&Fox\main.cpp(658,83): warning C4244:         ]
+C:\Users\Anr1\Desktop\Rob&Fox\main.cpp(658,62): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\Anr1\Desktop\Rob&Fox\main.cpp(658,62): warning C4244:         with
+C:\Users\Anr1\Desktop\Rob&Fox\main.cpp(658,62): warning C4244:         [
+C:\Users\Anr1\Desktop\Rob&Fox\main.cpp(658,62): warning C4244:             T=float
+C:\Users\Anr1\Desktop\Rob&Fox\main.cpp(658,62): warning C4244:         ]
+C:\Users\Anr1\Desktop\Rob&Fox\main.cpp(662,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Anr1\Desktop\Rob&Fox\main.cpp(662,34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Anr1\Desktop\Rob&Fox\main.cpp(675,43): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Anr1\Desktop\Rob&Fox\main.cpp(675,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Anr1\Desktop\Rob&Fox\main.cpp(728,50): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\Anr1\Desktop\Rob&Fox\main.cpp(728,50): warning C4244:         with
+C:\Users\Anr1\Desktop\Rob&Fox\main.cpp(728,50): warning C4244:         [
+C:\Users\Anr1\Desktop\Rob&Fox\main.cpp(728,50): warning C4244:             T=float
+C:\Users\Anr1\Desktop\Rob&Fox\main.cpp(728,50): warning C4244:         ]
+C:\Users\Anr1\Desktop\Rob&Fox\main.cpp(728,37): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\Anr1\Desktop\Rob&Fox\main.cpp(728,37): warning C4244:         with
+C:\Users\Anr1\Desktop\Rob&Fox\main.cpp(728,37): warning C4244:         [
+C:\Users\Anr1\Desktop\Rob&Fox\main.cpp(728,37): warning C4244:             T=float
+C:\Users\Anr1\Desktop\Rob&Fox\main.cpp(728,37): warning C4244:         ]
+C:\Users\Anr1\Desktop\Rob&Fox\main.cpp(796,84): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Anr1\Desktop\Rob&Fox\main.cpp(796,53): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Anr1\Desktop\Rob&Fox\main.cpp(800,90): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Anr1\Desktop\Rob&Fox\main.cpp(800,59): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Anr1\Desktop\Rob&Fox\main.cpp(806,90): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Anr1\Desktop\Rob&Fox\main.cpp(806,59): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Anr1\Desktop\Rob&Fox\main.cpp(812,91): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Anr1\Desktop\Rob&Fox\main.cpp(812,60): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Anr1\Desktop\Rob&Fox\main.cpp(963,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Tree.vcxproj -> C:\Users\Anr1\Desktop\Rob&Fox\x64\Debug\Tree.exe
